@@ -1,0 +1,82 @@
+body{
+    background-color:maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 3px;
+}
+
+.login-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color:whitesmoke;
+    border-radius: 3px;
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 100px;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top:20px;
+    border: none;
+    background-color: aqua;
+    color: beige;
+    font-size: 20px;
+
+}
+p{
+    text-align: center;
+    padding-top:20px ;
+    font-size: 15px;
+}
+.par-2{
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.par-2 a{
+    color: blue;
+}
+
+.mike{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+.mike a{
+    color: green;
+
+}
